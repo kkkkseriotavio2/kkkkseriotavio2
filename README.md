@@ -1,5 +1,5 @@
 # Hi there, I'm Otávio 👋
-## About Me
+### About Me
 I love software development, game development, networking and GNU/Linux (that one has my heart)
 <!--
 **kkkkseriotavio2/kkkkseriotavio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,33 +18,33 @@ I love software development, game development, networking and GNU/Linux (that on
 - ⚡ Fun fact: ...
 -->
 
-# My Tech Stack
+## My Tech Stack
 
-## Languages
+### Languages
 C/C++, Kotlin, Bash Script
 
 <!-- #TODO
-# Databases
+### Databases
 
 
-# Version Control
+### Version Control
 
 
-# IDE
+### IDE
 VSCodium
 
-# Servers
+### Servers
 
 
-# Operating System
+### Operating System
 Windows 7, Linux, Debian 11, Debian 12, Ubuntu 22.04, Android
 
-# Frameworks
+### Frameworks
 
 
-# Engines
+### Engines
 -->
-## My Latest Work
+### My Latest Work
 
 # Markdown Cheat Sheet
 
