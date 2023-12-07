@@ -1,6 +1,6 @@
 ### Hi there, I'm Otávio 👋
 # About Me
-I love software development, game development, and GNU/Linux (that one has my heart)
+I love software development, game development, networking and GNU/Linux (that one has my heart)
 <!--
 **kkkkseriotavio2/kkkkseriotavio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
