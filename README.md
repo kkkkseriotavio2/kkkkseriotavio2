@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ...
 -->
 
-- I love software development, game development, networking and GNU/Linux (that one has my heart)
+- 👀 I love software development, game development, networking and GNU/Linux (that one has my heart)
 - 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on free software, and game developmment.
 <!--
