@@ -1,5 +1,5 @@
 # Hi there, I'm Otávio 👋
-### About Me
+### 👨🏻‍💻 &nbsp;About Me
 <!--
 **kkkkseriotavio2/kkkkseriotavio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
