@@ -1,19 +1,50 @@
 ### Hi there, I'm Otávio 👋
 # About Me
 I love software development, game development, and GNU/Linux (that one has my heart)
-
+<!--
 **kkkkseriotavio2/kkkkseriotavio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
+-->
 - 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on game development
+
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-->
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-ot%C3%A1vio-raimann-2094b5297/)
+<!--
 - ⚡ Fun fact: ...
+-->
 
+## My Tech Stack
+
+# Languages
+C/C++, Kotlin, Bash Script
+
+<!-- #TODO
+# Databases
+
+
+# Version Control
+
+
+# IDE
+VSCodium
+
+# Servers
+
+
+# Operating System
+Windows 7, Linux, Debian 11, Debian 12, Ubuntu 22.04, Android
+
+# Frameworks
+
+
+# Engines
+-->
+## My Latest Work
 
 # Markdown Cheat Sheet
 
