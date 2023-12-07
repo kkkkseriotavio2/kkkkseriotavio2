@@ -7,8 +7,7 @@ I love software development, game development, networking and GNU/Linux (that on
 - 🔭 I’m currently working on ...
 -->
 - 🌱 I’m currently learning Kotlin.
-- 👯 I’m looking to collaborate on game development
-
+- 👯 I’m looking to collaborate on free software, and game developmment.
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
