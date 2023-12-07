@@ -1,5 +1,5 @@
-### Hi there, I'm Otávio 👋
-# About Me
+# Hi there, I'm Otávio 👋
+## About Me
 I love software development, game development, networking and GNU/Linux (that one has my heart)
 <!--
 **kkkkseriotavio2/kkkkseriotavio2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,9 @@ I love software development, game development, networking and GNU/Linux (that on
 - ⚡ Fun fact: ...
 -->
 
-## My Tech Stack
+# My Tech Stack
 
-# Languages
+## Languages
 C/C++, Kotlin, Bash Script
 
 <!-- #TODO
