@@ -6,15 +6,13 @@
 - 🔭 I’m currently working on ...
 -->
 
-- 👀 I love software development, game development, networking and GNU/Linux (that one has my heart)
+- 👀 I love software development, game development, networking and GNU/Linux.
 - 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on free software, and game developmment.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-ot%C3%A1vio-raimann-2094b5297/)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--->
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-ot%C3%A1vio-raimann-2094b5297/)
-<!--
 - ⚡ Fun fact: ...
 -->
 
