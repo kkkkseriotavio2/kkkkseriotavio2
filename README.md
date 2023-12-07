@@ -16,7 +16,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## My Tech Stack
+## 🛠 &nbsp;My Tech Stack
 
 ### Languages
 C/C++, Kotlin, Bash Script
