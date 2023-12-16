@@ -18,8 +18,7 @@
 -->
 ## 🛠 &nbsp;My Tech Stack
 ### Languages
-![Static Badge](https://img.shields.io/badge/C-language-grey)
- Kotlin, Bash Script
+C, Kotlin, Bash Script
 
 <!--
 ### My Latest Work
