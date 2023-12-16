@@ -1,5 +1,5 @@
 # Hi there, I'm Otávio 👋
-### About Me
+### 🤔 About Me
 👨🏻‍💻 &nbsp; I am a self-taught programmer with a passion for exploring the most diverse areas of computer science, including software development, data science, networking and cybersecurity.
 
 🌱 I'm always learning and ready to new challenges.
