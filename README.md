@@ -2,7 +2,7 @@
 ### About Me
 👨🏻‍💻 &nbsp; I am a self-taught programmer with a passion for exploring the most diverse areas of computer science, including software development, data science, networking and cybersecurity.
 
-🌱 I'm always learning and currently learning the C language, it's awesome!.
+🌱 I'm always learning and ready to new challenges.
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-ot%C3%A1vio-raimann-2094b5297/) or email me at [luis.otavio@keemail.me](luis.otavio@keemail.me)
 
@@ -18,7 +18,8 @@
 -->
 ## 🛠 &nbsp;My Tech Stack
 ### Languages
-C/C++, Kotlin, Bash Script
+![Static Badge](https://img.shields.io/badge/C-language-grey)
+ Kotlin, Bash Script
 
 <!--
 ### My Latest Work
