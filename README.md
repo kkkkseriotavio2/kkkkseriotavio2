@@ -1,6 +1,5 @@
 # Hi there, I'm Otávio 👋
-### About Me                                                                                                                                                                               ![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
+### About Me
 👨🏻‍💻 &nbsp; I am a self-taught programmer with a passion for exploring the most diverse areas of computer science, including software development, data science, networking and cybersecurity.
 🌱 I'm always learning and currently learning the C language, it's awesome!.
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-ot%C3%A1vio-raimann-2094b5297/) or email me at [luis.otavio@keemail.me](luis.otavio@keemail.me)
@@ -16,7 +15,6 @@
 - ⚡ Fun fact: ...
 -->
 ## 🛠 &nbsp;My Tech Stack
-
 ### Languages
 C/C++, Kotlin, Bash Script
 
