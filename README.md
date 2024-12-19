@@ -18,7 +18,7 @@
 -->
 ## 🛠 &nbsp;My Tech Stack
 ### Languages
-C, Kotlin, Bash Script
+C/C++, Python, Kotlin, Bash Script
 
 <!--
 ### My Latest Work
